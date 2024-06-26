@@ -5,12 +5,10 @@
     />
 </p>
 
-<p align="center">
-    <a href="https://andreidefreitas.com">preview do podcast</a>
-</p>
-
 <div align="center">
+<p align="center">
     <audio src="output/podcast_audio.mp3" controls title="Podcast editado"></audio>
+</p>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
