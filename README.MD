@@ -9,10 +9,6 @@
     <a href="https://andreidefreitas.com/projetos/podcast/podcast_audio.mp3">preview do podcast</a>
 </p>
 
-<div align="center">
-    <audio src="output/podcast_audio.mp3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um módulo do curso Santander Fundamentos de IA para Devs na plataforma [DIO](https://dio.me)
