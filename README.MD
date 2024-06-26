@@ -58,8 +58,8 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       width="80" 
       src="https://avatars.githubusercontent.com/u/69432463?v=4"
     />
-    <p>&nbsp&nbsp&nbspAndrei de Freitas<br>
-    &nbsp&nbsp&nbsp
+    <p>&nbsp;&nbsp;&nbsp;Andrei de Freitas<br>
+    &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/andreidefreitas">GitHub</a>
     &nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/paulo-andrei-de-freitas-bandeira-a10935194">LinkedIn</a>
@@ -69,7 +69,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </p>
 </p>
 <br/><br/>
-<p>
 
 ---
 
