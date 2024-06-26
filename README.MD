@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Steampunk musical headset sitting on a desk near a.webp"
     width="300"
 />
 </p>
